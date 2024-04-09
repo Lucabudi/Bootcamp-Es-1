@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: center;
+  justify-content: center;
+}
+
+.loghi {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: 100px 0;
+}
+
+.loghi img {
+  max-width: 120px;
+}
+
+#sfondoPagina {
+  height: 100vh;
+  width: 100vw;
+}
